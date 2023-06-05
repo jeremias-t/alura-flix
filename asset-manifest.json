@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/alura-flix/static/css/main.3edad997.css",
+    "main.js": "/alura-flix/static/js/main.8d5bb93e.js",
+    "static/js/787.a01143d5.chunk.js": "/alura-flix/static/js/787.a01143d5.chunk.js",
+    "static/media/banner.png": "/alura-flix/static/media/banner.54249eb4da785d37b570.png",
+    "static/media/logo.svg": "/alura-flix/static/media/logo.3f7d9f9b7a086275dde7a5d6bc637cb0.svg",
+    "index.html": "/alura-flix/index.html",
+    "main.3edad997.css.map": "/alura-flix/static/css/main.3edad997.css.map",
+    "main.8d5bb93e.js.map": "/alura-flix/static/js/main.8d5bb93e.js.map",
+    "787.a01143d5.chunk.js.map": "/alura-flix/static/js/787.a01143d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3edad997.css",
+    "static/js/main.8d5bb93e.js"
+  ]
+}
